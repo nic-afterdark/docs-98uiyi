@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-cat04f.cingbet138.site/sitemap.xml
